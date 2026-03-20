@@ -59,3 +59,4 @@ study-planner/
 ## 📝 라이선스
 
 이 프로젝트는 무료로 사용할 수 있습니다.
+(the image used in this project and the character is not mine. All rights belong to their respectful owners. Thank you.)
